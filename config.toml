@@ -1,4 +1,4 @@
-baseURL = "https://austinmaldonado/resume"
+baseURL = "https://resume-ggs2g.ondigitalocean.app/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 theme = "almeida-cv"
