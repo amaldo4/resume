@@ -1,4 +1,4 @@
-baseURL = "https://localhost/resume"
+baseURL = "https://austinmaldonado/resume"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 theme = "almeida-cv"
