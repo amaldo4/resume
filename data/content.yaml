@@ -76,4 +76,6 @@ Projects:
     Details: Applied principles of processor development to semester long project of increasing complexity. Implemented pipelining, forwarding paths, and cache to simulated processor. Researched basics of multithreading and began implementation for simulator.
   - Title: Spotify API WebApp
     Details: Applied Agile software engineering principles along with the Spotify Playback SDK. Led the team in implementation phase of development. Produced webapp using client-side JavaScript and Nodejs.
+  - Title: NFL Running Back Rushing Analysis Visualizer
+    Details: Utilized matplotlib and pandas to develop a python script to create a visualization of where popular NFL running backs are receiving the most work. Applied data analysis basics to gather data from nflfastpy and use it to populate a data set from which the visiualization is made. Created using Google Colab.
     
