@@ -72,10 +72,10 @@ Skills:
       - AWS
 
 Projects:
-  - Title: ARM Processor Simulator
-    Details: Applied principles of processor development to semester long project of increasing complexity. Implemented pipelining, forwarding path, and cache to simulated processor. Began process of implementing multithreading using POSIX Threads.
+  - Title: MIPS Processor Emulator
+    Details: Applied principles of processor development to semester-long project of increasing complexity using C++. Implemented 8 stage pipeline with instruction fetch, decode, processing, memory, and writeback stages. Forwarding paths and cache implemented to increase performance and decrees processing time.
   - Title: Spotify API WebApp
-    Details: Applied agile software engineering principles to semester long team project. Produced webapp that utilizes the Spotify Playback SDK, client-side JavaScript, and Nodejs to give users more control over their playlists. Led team in planning and implementation phases of development.
-  - Title: NFL Rushing Analysis Visualizer
-    Details: Utilized matplotlib and pandas to develop a python program that creates a visualization of where popular NFL running backs are receiving the most work. Applied data analysis basics to gather data from nflfastpy and use it to populate a data set from which the visualization is made. Created using Google Colab.
+    Details: Applied agile software engineering principles to semester-long team project utilizing javascript, node.js, and mySQL. Implemented features using Spotify Web API to give users greater control over their playlists. Utilized Spotify Playback SDK library to play music through the user's browser.
+  - Title: NFL Analysis Visualizer
+    Details: Utilized matplotlib and pandas libraries to develop a python script that creates visualization of NFL player statistics. Applied data analysis basics to gather information from nflfastpy datasets and filter for each player's information. Implemented common data structures to contain and organize information for further processing for visualization.
     
